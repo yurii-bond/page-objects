@@ -155,7 +155,7 @@ the following:
 Multi Page Elements
 -------------------
 
-Sometimes we we want to access lists of elements from the page. To do this there is
+Sometimes we want to access lists of elements from the page. To do this there is
 a ``MultiPageElement`` class which is constructed exactly the same as ``PageElement``.
 
 .. code-block:: python
